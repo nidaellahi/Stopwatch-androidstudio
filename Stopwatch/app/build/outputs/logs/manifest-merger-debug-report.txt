@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Intan\AndroidStudioProjects\Stopwatch\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Intan\AndroidStudioProjects\Stopwatch\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Intan\AndroidStudioProjects\Stopwatch\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Intan\AndroidStudioProjects\Stopwatch\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Intan\.gradle\caches\transforms-2\files-2.1\624fd35f7ff3949edc2fc01d0368d353\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Intan\.gradle\caches\transforms-2\files-2.1\de7673529d78c0232090715713aaf08e\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Intan\.gradle\caches\transforms-2\files-2.1\d4eb55f2a51ec6db454793d45363d42c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Intan\.gradle\caches\transforms-2\files-2.1\2d49026ed80158b0ffbd8537e8fcae17\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Intan\.gradle\caches\transforms-2\files-2.1\69ce8630d32dc2f93d57a8788ea25c6b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Intan\.gradle\caches\transforms-2\files-2.1\78ebdd812ac3d56cfe5ad8be228de0fa\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Intan\.gradle\caches\transforms-2\files-2.1\54c9bf3cbdadf84e6af41b9935fdd0f1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Intan\.gradle\caches\transforms-2\files-2.1\6d895ae0b01fab34dc129adbed0907c1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Intan\.gradle\caches\transforms-2\files-2.1\3bf02824bc2834eed61311c315b4efff\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Intan\.gradle\caches\transforms-2\files-2.1\34bf25580013c6c86c8a457767c9b067\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Intan\.gradle\caches\transforms-2\files-2.1\5990e103a5a1b03981f309d155fa0521\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Intan\.gradle\caches\transforms-2\files-2.1\905427e0e646e947857bf4532b3435ee\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Intan\.gradle\caches\transforms-2\files-2.1\85bef8d9434f6e3eb793c2ec33a5ff30\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Intan\.gradle\caches\transforms-2\files-2.1\3478801c23603056125920f398b6cbac\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Intan\.gradle\caches\transforms-2\files-2.1\d5222b40b05b39c872d942e8ce1728a1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] C:\Users\Intan\.gradle\caches\transforms-2\files-2.1\7e9889d3dabb38719e23ed4abc569f69\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Intan\.gradle\caches\transforms-2\files-2.1\fa7edc84cc1c7f786dffa0fb2a2691df\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Intan\.gradle\caches\transforms-2\files-2.1\6eca67dc57beff6c72f2a22daa78db55\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Intan\.gradle\caches\transforms-2\files-2.1\cfc8a62397a59c611e54676830a3848c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Intan\.gradle\caches\transforms-2\files-2.1\a87c70b38c79acd70563465afdd57360\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Intan\.gradle\caches\transforms-2\files-2.1\63e080dc737516bd2a7cdfb160e65b2c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Intan\.gradle\caches\transforms-2\files-2.1\a8acc1f6bf9e24a8e534e72e73e1a699\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Intan\.gradle\caches\transforms-2\files-2.1\1dc0bb23488acf63b35ca3613a7cf3f3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Intan\.gradle\caches\transforms-2\files-2.1\c8712792e2e2717433518131addb2e29\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Intan\.gradle\caches\transforms-2\files-2.1\b707d299e1b612156d2ad8068a3e8bb5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Intan\.gradle\caches\transforms-2\files-2.1\7d238cfd2c834bf2e16922f7ed8c89b8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Intan\.gradle\caches\transforms-2\files-2.1\c200c0d388a7e670c5204b1643819069\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Intan\AndroidStudioProjects\Stopwatch\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Intan\AndroidStudioProjects\Stopwatch\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Intan\AndroidStudioProjects\Stopwatch\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Users\Intan\AndroidStudioProjects\Stopwatch\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from C:\Users\Intan\AndroidStudioProjects\Stopwatch\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Intan\AndroidStudioProjects\Stopwatch\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Intan\AndroidStudioProjects\Stopwatch\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Intan\AndroidStudioProjects\Stopwatch\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\Intan\AndroidStudioProjects\Stopwatch\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Intan\AndroidStudioProjects\Stopwatch\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Intan\AndroidStudioProjects\Stopwatch\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\Intan\AndroidStudioProjects\Stopwatch\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Intan\AndroidStudioProjects\Stopwatch\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Intan\AndroidStudioProjects\Stopwatch\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Intan\.gradle\caches\transforms-2\files-2.1\de7673529d78c0232090715713aaf08e\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Intan\.gradle\caches\transforms-2\files-2.1\de7673529d78c0232090715713aaf08e\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.1] C:\Users\Intan\.gradle\caches\transforms-2\files-2.1\7e9889d3dabb38719e23ed4abc569f69\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] C:\Users\Intan\.gradle\caches\transforms-2\files-2.1\7e9889d3dabb38719e23ed4abc569f69\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Intan\.gradle\caches\transforms-2\files-2.1\fa7edc84cc1c7f786dffa0fb2a2691df\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Intan\.gradle\caches\transforms-2\files-2.1\fa7edc84cc1c7f786dffa0fb2a2691df\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] C:\Users\Intan\.gradle\caches\transforms-2\files-2.1\7e9889d3dabb38719e23ed4abc569f69\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Intan\AndroidStudioProjects\Stopwatch\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\Intan\AndroidStudioProjects\Stopwatch\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\Intan\AndroidStudioProjects\Stopwatch\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\Intan\AndroidStudioProjects\Stopwatch\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\Intan\AndroidStudioProjects\Stopwatch\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\Intan\AndroidStudioProjects\Stopwatch\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.stopwatch.MainActivity
+ADDED from C:\Users\Intan\AndroidStudioProjects\Stopwatch\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\Intan\AndroidStudioProjects\Stopwatch\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Intan\AndroidStudioProjects\Stopwatch\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Intan\AndroidStudioProjects\Stopwatch\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\Intan\AndroidStudioProjects\Stopwatch\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Intan\AndroidStudioProjects\Stopwatch\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\Intan\AndroidStudioProjects\Stopwatch\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\Users\Intan\AndroidStudioProjects\Stopwatch\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Intan\AndroidStudioProjects\Stopwatch\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Intan\AndroidStudioProjects\Stopwatch\app\src\main\AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Intan\.gradle\caches\transforms-2\files-2.1\624fd35f7ff3949edc2fc01d0368d353\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Intan\.gradle\caches\transforms-2\files-2.1\624fd35f7ff3949edc2fc01d0368d353\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Intan\.gradle\caches\transforms-2\files-2.1\de7673529d78c0232090715713aaf08e\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Intan\.gradle\caches\transforms-2\files-2.1\de7673529d78c0232090715713aaf08e\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Intan\.gradle\caches\transforms-2\files-2.1\d4eb55f2a51ec6db454793d45363d42c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Intan\.gradle\caches\transforms-2\files-2.1\d4eb55f2a51ec6db454793d45363d42c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Intan\.gradle\caches\transforms-2\files-2.1\2d49026ed80158b0ffbd8537e8fcae17\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Intan\.gradle\caches\transforms-2\files-2.1\2d49026ed80158b0ffbd8537e8fcae17\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Intan\.gradle\caches\transforms-2\files-2.1\69ce8630d32dc2f93d57a8788ea25c6b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Intan\.gradle\caches\transforms-2\files-2.1\69ce8630d32dc2f93d57a8788ea25c6b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Intan\.gradle\caches\transforms-2\files-2.1\78ebdd812ac3d56cfe5ad8be228de0fa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Intan\.gradle\caches\transforms-2\files-2.1\78ebdd812ac3d56cfe5ad8be228de0fa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Intan\.gradle\caches\transforms-2\files-2.1\54c9bf3cbdadf84e6af41b9935fdd0f1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Intan\.gradle\caches\transforms-2\files-2.1\54c9bf3cbdadf84e6af41b9935fdd0f1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Intan\.gradle\caches\transforms-2\files-2.1\6d895ae0b01fab34dc129adbed0907c1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Intan\.gradle\caches\transforms-2\files-2.1\6d895ae0b01fab34dc129adbed0907c1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Intan\.gradle\caches\transforms-2\files-2.1\3bf02824bc2834eed61311c315b4efff\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Intan\.gradle\caches\transforms-2\files-2.1\3bf02824bc2834eed61311c315b4efff\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Intan\.gradle\caches\transforms-2\files-2.1\34bf25580013c6c86c8a457767c9b067\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Intan\.gradle\caches\transforms-2\files-2.1\34bf25580013c6c86c8a457767c9b067\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Intan\.gradle\caches\transforms-2\files-2.1\5990e103a5a1b03981f309d155fa0521\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Intan\.gradle\caches\transforms-2\files-2.1\5990e103a5a1b03981f309d155fa0521\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Intan\.gradle\caches\transforms-2\files-2.1\905427e0e646e947857bf4532b3435ee\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Intan\.gradle\caches\transforms-2\files-2.1\905427e0e646e947857bf4532b3435ee\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Intan\.gradle\caches\transforms-2\files-2.1\85bef8d9434f6e3eb793c2ec33a5ff30\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Intan\.gradle\caches\transforms-2\files-2.1\85bef8d9434f6e3eb793c2ec33a5ff30\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Intan\.gradle\caches\transforms-2\files-2.1\3478801c23603056125920f398b6cbac\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Intan\.gradle\caches\transforms-2\files-2.1\3478801c23603056125920f398b6cbac\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Intan\.gradle\caches\transforms-2\files-2.1\d5222b40b05b39c872d942e8ce1728a1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Intan\.gradle\caches\transforms-2\files-2.1\d5222b40b05b39c872d942e8ce1728a1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\Intan\.gradle\caches\transforms-2\files-2.1\7e9889d3dabb38719e23ed4abc569f69\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\Intan\.gradle\caches\transforms-2\files-2.1\7e9889d3dabb38719e23ed4abc569f69\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Intan\.gradle\caches\transforms-2\files-2.1\fa7edc84cc1c7f786dffa0fb2a2691df\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Intan\.gradle\caches\transforms-2\files-2.1\fa7edc84cc1c7f786dffa0fb2a2691df\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Intan\.gradle\caches\transforms-2\files-2.1\6eca67dc57beff6c72f2a22daa78db55\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Intan\.gradle\caches\transforms-2\files-2.1\6eca67dc57beff6c72f2a22daa78db55\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Intan\.gradle\caches\transforms-2\files-2.1\cfc8a62397a59c611e54676830a3848c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Intan\.gradle\caches\transforms-2\files-2.1\cfc8a62397a59c611e54676830a3848c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Intan\.gradle\caches\transforms-2\files-2.1\a87c70b38c79acd70563465afdd57360\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Intan\.gradle\caches\transforms-2\files-2.1\a87c70b38c79acd70563465afdd57360\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Intan\.gradle\caches\transforms-2\files-2.1\63e080dc737516bd2a7cdfb160e65b2c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Intan\.gradle\caches\transforms-2\files-2.1\63e080dc737516bd2a7cdfb160e65b2c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Intan\.gradle\caches\transforms-2\files-2.1\a8acc1f6bf9e24a8e534e72e73e1a699\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Intan\.gradle\caches\transforms-2\files-2.1\a8acc1f6bf9e24a8e534e72e73e1a699\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Intan\.gradle\caches\transforms-2\files-2.1\1dc0bb23488acf63b35ca3613a7cf3f3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Intan\.gradle\caches\transforms-2\files-2.1\1dc0bb23488acf63b35ca3613a7cf3f3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Intan\.gradle\caches\transforms-2\files-2.1\c8712792e2e2717433518131addb2e29\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Intan\.gradle\caches\transforms-2\files-2.1\c8712792e2e2717433518131addb2e29\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Intan\.gradle\caches\transforms-2\files-2.1\b707d299e1b612156d2ad8068a3e8bb5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Intan\.gradle\caches\transforms-2\files-2.1\b707d299e1b612156d2ad8068a3e8bb5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Intan\.gradle\caches\transforms-2\files-2.1\7d238cfd2c834bf2e16922f7ed8c89b8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Intan\.gradle\caches\transforms-2\files-2.1\7d238cfd2c834bf2e16922f7ed8c89b8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Intan\.gradle\caches\transforms-2\files-2.1\c200c0d388a7e670c5204b1643819069\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Intan\.gradle\caches\transforms-2\files-2.1\c200c0d388a7e670c5204b1643819069\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Intan\AndroidStudioProjects\Stopwatch\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Intan\AndroidStudioProjects\Stopwatch\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Intan\AndroidStudioProjects\Stopwatch\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Intan\AndroidStudioProjects\Stopwatch\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Intan\AndroidStudioProjects\Stopwatch\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Intan\AndroidStudioProjects\Stopwatch\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Intan\AndroidStudioProjects\Stopwatch\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Intan\AndroidStudioProjects\Stopwatch\app\src\main\AndroidManifest.xml
